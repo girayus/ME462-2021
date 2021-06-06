@@ -1,6 +1,6 @@
 
-|Group  	|Part  	|Status  	|
-|-	|-	|-	|
+| Group	| Part | Status |
+| -	| -	| -	|
 |  	| 	|  	|
 |  	|  	|  	|
 |  	|  	|  	|
